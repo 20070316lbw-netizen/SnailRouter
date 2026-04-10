@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+environment/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data & Models
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# Logs and outputs
+outputs/
+logs/
+results/
+tmp/
+.ipynb_checkpoints/
